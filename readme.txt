@@ -1,1 +1,1 @@
-ECHO is on.
+eza a resadme alma
